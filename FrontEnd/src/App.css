@@ -1,0 +1,85 @@
+.row-header{
+  margin:0px auto;
+  padding:0px auto;
+}
+
+.row-content {
+  margin:0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height:400px;
+}
+
+.footer{
+  background: linear-gradient(#FFFFFF,#778A98) ;
+  margin:0px auto;
+  padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+  height: 350px;
+  padding:70px 30px 70px 30px;
+  margin:0px auto;
+  background: linear-gradient(#778A98,#ffffff) ;
+  color: #fefefe;
+}
+
+address{
+  font-size:90%;
+  margin:0px;
+  color:#0f0f0f;
+}
+
+.navbar-dark {
+  background: #788B99 ;
+}
+
+.moto{
+  font-size: 400%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.home-list{
+  font-size: 120%;
+  line-height: 2.2em;
+}
+
+.sign{
+  height: 100%;
+}
+
+.dash{
+  height: auto;
+  padding:70px 30px 70px 30px;
+  margin:0px auto;
+  background: linear-gradient(#778A98,#ffffff) ;
+  color: #fefefe;
+}
+
+.new{
+  background: #007BFF;
+  color: white;
+}
+
+.dash-button{
+  width: 100%;
+}
+
+.NewCard{
+  background: #ECF0F1;
+}
+
+.contact{
+  height: 150%;
+}
+
+.result{
+  width: 80%;
+}
+
+.transfer-button{
+  background-color: #41b641;
+}
+
+.tick{
+  color: #0f8d0b;
+}
